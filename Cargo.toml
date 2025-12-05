@@ -1,0 +1,8 @@
+[package]
+name = "argon_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust-argon2 = "3"
+rand = "0.8"

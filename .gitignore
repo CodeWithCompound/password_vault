@@ -1,0 +1,11 @@
+# Rust
+/target
+**/*.rs.bk
+
+# IDE junk
+.vscode/
+.idea/
+
+# OS garbage
+.DS_Store
+Thumbs.db
